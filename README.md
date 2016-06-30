@@ -14,3 +14,6 @@ The courses comprising the Data Science Specialization are:
 [0001]: https://www.coursera.org/specialization/jhudatascience/1?utm_medium=
 courseDescripTop
 [jhu]: http://www.jhu.edu
+
+
+Git is easy. Git is fun. Thanks Linus!
